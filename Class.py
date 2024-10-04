@@ -2,7 +2,7 @@ class Node:
     def __init__(self, data):
         self.data = data
         self.left = self.right = None
-
+//mainmain
 class Tree:
     def __init__(self):
         self.root = None
